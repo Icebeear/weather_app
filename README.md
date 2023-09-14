@@ -13,4 +13,4 @@ api_key = "API_KEY"
 # Screenshot
 Here we have project screenshot :
 
-![screenshot](screenshot.jpg)
+![screenshot](screenshot.png)
